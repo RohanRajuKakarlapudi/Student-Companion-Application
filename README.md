@@ -17,7 +17,7 @@ The Student Companion Application was developed as a self-driven project by a Le
 
 ## Installation
 
-To get started with the Student Companion Application, follow the detailed steps in our [Installation Guide](./APPLICATION_INSTALLATION_GUIDE.md) to set up the necessary environment and dependencies.
+To get started with the Student Companion Application, follow the detailed steps in our [Installation Guide](APPLICATION%20INSTALLATION%20GUIDE%20file.py) to set up the necessary environment and dependencies.
 
 ### Future Plans
 - **AWS Migration**: Planning to migrate fully to managed AWS services to further optimize operational efficiency and scalability. This transition aims to improve performance, reduce maintenance overhead, and enhance user experience.
